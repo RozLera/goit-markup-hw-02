@@ -75,8 +75,9 @@ a {
 }
 
 .butt:hover,
+.butt:focus,
 .butt:active {
-    background-color: #404BBF;
+    color: #404BBF;
 }
 
 
