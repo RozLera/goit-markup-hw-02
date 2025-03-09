@@ -31,7 +31,8 @@ a {
 }
 
  .page-nav-link:hover,
- .page-nav-link:focus {
+ .page-nav-link:focus,
+ .page-nav-link:active {
     color: #404bbf;
 }
 
