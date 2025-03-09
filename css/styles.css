@@ -98,7 +98,7 @@ a {
 }
 
 .section-three {
-   background-color: #4F44FD;
+    background-color: #f4f4fd;
 }
 
 .section-three .box {
@@ -109,7 +109,7 @@ a {
     text-transform: capitalize;
     font-weight: 700;
         font-size: 36px;
-        line-height: 1.11111;
+        line-height: 1.11;
         letter-spacing: 0.02em;
         text-align: center;
         color: #2e2f42;
@@ -135,7 +135,7 @@ a {
 .section-four .title-main {
     text-transform: capitalize;
         font-size: 36px;
-        line-height: 1.11111;
+        line-height: 1.11;
         letter-spacing: 0.02em;
         text-align: center;
         color: #2e2f42;
