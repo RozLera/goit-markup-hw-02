@@ -21,15 +21,15 @@ a {
     color: #2e2f42;
 }
 
-.page-nav, .link {
+.page-nav .link {
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #2e2f42;
 }
 
-.page-nav, .link:hover
-.page-nav, .link:active {
+.page-nav .link:hover,
+.page-nav .link:active {
     color: #404bbf;
 }
 
@@ -37,7 +37,8 @@ a {
     font-style: normal;
 }
 
-.address .email .phone {
+.address .email,
+.address .phone {
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
@@ -70,7 +71,7 @@ a {
         cursor: pointer;
 }
 
-.butt:hover
+.butt:hover,
 .butt:active {
     background-color: #404bbf;
 }
@@ -94,12 +95,11 @@ a {
 }
 
 .section-three {
-   background-color: #4f44fd;
-   text-transform: capitalize;
+   background-color: #4F44FD;
 }
 
 .section-three .box {
-    background-color: #fff;
+    background-color: #ffffff;
 }
 
 .section-three .title-main {
